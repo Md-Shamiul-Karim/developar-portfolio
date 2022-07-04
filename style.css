@@ -50,6 +50,9 @@ h1{
     width: 50%;
     margin-left: 25px;
     margin-right: 25px;
+    border-top: 10px solid blue;
+    border-radius: 10px;
+    padding: 10px;
 }
 u{
     color: darkgreen;
@@ -59,4 +62,14 @@ u{
     background-image: url(Picture/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left middle;
+}
+#border-one{
+    border-left: 10px solid yellow;
+}
+#border-two{
+    border-left: 10px solid tomato;
+}
+footer p{
+    text-align: center;
+    color: crimson;
 }
