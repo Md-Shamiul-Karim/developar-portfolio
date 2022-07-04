@@ -3,5 +3,8 @@ body{
 }
 
 h1{
-    font-size: 55px;
+    font-size: 45px;
+}
+#color{
+    color: crimson;
 }
